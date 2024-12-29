@@ -43,3 +43,14 @@
 <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="git" width="40" height="40"/>
 <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="vs code" width="40" height="40"/>
 </p>
+
+## My Github Stats:
+<!-- GitHub Stats by github-readme-stats.vercel.app -->
+
+<a href="https://github.com/kavineksith" style="color: #1a73e8; text-decoration: none;">
+  <img align="top" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavineksith&title_color=1a73e8&text_color=000000&icon_color=4AB197&bg_color=ffffff&hide=html,css" alt="Kavin's GitHub Stats" />
+</a>
+
+<a href="https://github.com/kavineksith" style="color: #1a73e8; text-decoration: none;">
+  <img align="top" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=kavineksith&show_icons=true&count_private=true&title_color=1a73e8&text_color=000000&icon_color=D8BFD8&bg_color=ffffff&rank_icon=github" alt="Kavin's GitHub Stats" />
+</a>
