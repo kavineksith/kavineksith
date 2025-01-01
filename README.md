@@ -15,8 +15,8 @@
 - ISC2 CC (Certified in Cybersecurity)
 
 ## Education:
-- HND in Computing
-- IT Diploma in Computing
+- Higher National Diploma in Computing - General
+- Diploma in Information Technology
 
 ## Technologies and Tools:
 <p align="left">
