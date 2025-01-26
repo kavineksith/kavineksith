@@ -51,5 +51,5 @@
 </a>
 
 <a href="https://github.com/kavineksith" style="color: #1a73e8; text-decoration: none;">
-  <img align="top" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=kavineksith&show_icons=true&count_private=true&title_color=1a73e8&text_color=000000&icon_color=D8BFD8&bg_color=ffffff&rank_icon=github" alt="Kavin's GitHub Stats" />
+  <img align="top" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=kavineksith&show_icons=true&count_private=true&title_color=1a73e8&text_color=000000&icon_color=D8BFD8&bg_color=ffffff" alt="Kavin's GitHub Stats" />
 </a>
