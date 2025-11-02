@@ -33,6 +33,8 @@ When I'm not immersed in code or exploring new tech, I find peace and inspiratio
 ## 📊 GitHub Stats & Language Usage
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kavineksith&show_icons=true&count_private=true&title_color=333333&text_color=555555&icon_color=4AB197&bg_color=ffffff" alt="Kavin's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavineksith&layout=compact&title_color=333333&text_color=555555&bg_color=ffffff&hide=html,css" alt="Kavin's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kavineksith&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" alt="Kavin's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavineksith&layout=compact&title_color=ffffff&text_color=c9cacc&bg_color=1A2B34&hide=html,css" alt="Kavin's Top Languages" />
 </p>
+
+
