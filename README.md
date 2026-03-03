@@ -32,8 +32,9 @@ When I'm not immersed in code or exploring new tech, I find peace and inspiratio
 ## 📊 GitHub Stats & Language Usage
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kavineksith&show_icons=true&theme=dark&cache_seconds=86400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavineksith&layout=compact&theme=dark&cache_seconds=86400" />
+  <img src="https://streak-stats.demolab.com?user=kavineksith&theme=dark" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kavineksith&theme=github_dark" />
 </p>
 
 
