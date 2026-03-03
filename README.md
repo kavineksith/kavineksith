@@ -33,7 +33,7 @@ When I'm not immersed in code or exploring new tech, I find peace and inspiratio
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=kavineksith&theme=dark" />
-  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kavineksith&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kavineksith&theme=github_dark" />
 </p>
 
