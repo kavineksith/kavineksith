@@ -1,40 +1,129 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Kavin%20Eksith&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF9C&size=26&center=true&vCenter=true&width=900&lines=Cybersecurity+Enthusiast;Software+Engineering+Student;Linux+%7C+Bash+%7C+PowerShell;Secure+Application+Developer;Always+Learning+New+Technologies"/>
+</p>
+
+---
+
 # 👋 Hello, I'm Kavin Eksith
 
-I'm deeply passionate about the dynamic world of technology—especially where **cybersecurity**, **IT support**, **QA**, and **software engineering** intersect. I thrive on solving complex problems with critical thinking and a curious mind, always eager to learn and grow. Whether I'm scripting in **Bash** or **PowerShell**, navigating **Linux** or **Windows** environments, or diving into **application development with a security-first mindset**, I bring energy and precision to every challenge. My journey is fueled by a love for continuous learning, and I've earned several **technical certifications from industry-recognized organizations** that validate my skills and dedication. For me, tech isn't just a career—it's an adventure filled with discovery, innovation, and joyful mastery.
+I’m passionate about the dynamic world of **technology**, particularly where **cybersecurity, IT support, quality assurance, and software engineering** intersect.  
+
+I enjoy solving complex problems with curiosity and critical thinking while building **secure and reliable systems**.
+
+My interests include:
+
+🔐 Cybersecurity  
+💻 Software Engineering  
+⚙️ Automation & Scripting  
+🧪 Quality Assurance  
+🛠 IT Infrastructure  
+
+Technology for me is not just a career — it’s a **journey of continuous discovery and mastery**.
 
 ---
 
-## 🌿 Hobbies & Joyful Escapes
+# 🧠 Currently Learning
 
-When I'm not immersed in code or exploring new tech, I find peace and inspiration in the simple joys of life. I love listening to music and songs that stir the soul, watching movies that spark imagination, and spending quiet moments with nature—feeling the breeze, soaking in the calm, and reconnecting with the world around me. These moments recharge my creativity and keep my spirit grounded.
+• Advanced Cybersecurity Concepts  
+• Secure Application Development  
+• Linux System Hardening  
+• Cloud & Infrastructure Security  
+• Software Testing & QA Automation  
 
 ---
 
-## 🛠️ Tech Stack & Tools
+# 🛠 Tech Stack & Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+### 💻 Operating Systems
+<p>
+<img src="https://skillicons.dev/icons?i=linux,windows"/>
+</p>
+
+### ⚙️ Scripting & Automation
+<p>
+<img src="https://skillicons.dev/icons?i=bash,powershell,python"/>
+</p>
+
+### 💻 Development
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,react,spring,nodejs,express"/>
+</p>
+
+### 🔧 Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats & Language Usage
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kavineksith&theme=dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kavineksith&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kavineksith&theme=github_dark" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=kavineksith&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavineksith&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
+---
 
+# 🔥 Contribution Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=kavineksith&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kavineksith&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=kavineksith&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+# 🌿 Beyond Technology
+
+When I'm not exploring technology, I enjoy:
+
+🎵 Listening to music  
+🎬 Watching movies  
+🌿 Spending time in nature  
+
+These moments help recharge my creativity and keep me inspired.
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/kavineksith">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="#">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+</p>
